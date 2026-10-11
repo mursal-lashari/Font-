@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Grechen+Fuemen&display=swap');
+h1 {
+  font-family: "Grechen Fuemen", cursive;
+}
+@font-face {
+    font-family: "Grechen Fuemen", cursive;
+  src: url(font/GrechenFuemen-Regular.ttf);
+}
+p {
+   font-family: "Grechen Fuemen", cursive;
+}
+
+body {
+  background-color: #94c5da;
+  color: #062432;
+ 
+}
